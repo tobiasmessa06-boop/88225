@@ -1,0 +1,11 @@
+body {font-family: Arial;padding: 20px;
+    background-color: #800020;
+    color: white;
+}
+#listaProductos div, #carrito div {border: 1px solid #ccc;padding: 10px;margin-bottom: 8px;}
+button {margin-top: 5px;}
+
+h1{
+ text-align: center;
+ font-weight: bold;
+}
