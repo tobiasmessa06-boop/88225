@@ -21,11 +21,19 @@
   </ul>
 </header>
 
+<main>
+  <section id="carrito-vacio">
+    <p>Tu carrito está vacío.</p>
+  </section>
 
-  <main>
-    <section id="contenedor-productos" class="grid"></section>
-  </main>
+  <section id="carrito-contenedor" class="hidden">
+    <div id="lista-carrito"></div>
+    <p>Total: <strong id="carrito-total">$0</strong></p>
+    <button id="vaciar-carrito">Vaciar carrito</button>
+    <button id="comprar">Comprar</button>
+  </section>
+</main>
 
-  <script type="module" src="./js/app.js"></script>
+<script type="module" src="./js/app.js"></script>
 </body>
 </html>
