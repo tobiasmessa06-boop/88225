@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nombre": "Asseto Corsa Competizione",
+    "precio": 33565,
+    "categoria": "Es un simulador de carreras muy realista centrado en competencias oficiales GT. Ofrece físicos precisos, clima dinámico y una experiencia de conducción profesional.",
+    "imagen": "./assets/img/acc.avif"
+  },
+  {
+    "id": 2,
+    "nombre": "Project Motor Racing",
+    "precio": 70664,
+    "categoria": "Juego de carreras con autos modernos y detallados, donde la velocidad y la estrategia en pista son clave. Enfocado en acción intensa y visuales realistas.",
+    "imagen": "assets/img/projectmotor.png"
+  },
+  {
+    "id": 3,
+    "nombre": "EA F1 25",
+    "precio": 105996,
+    "categoria": "El videojuego oficial de la Fórmula 1. Permite competir en todos los circuitos y escuderías actuales, con modos carrera, multijugador y conducción realista.",
+    "imagen": "assets/img/f125.avif"
+  },
+  {
+    "id": 4,
+    "nombre": "GTA V",
+    "precio": 79497,
+    "categoria": "Un juego de mundo abierto donde podés explorar libremente, completar misiones, manejar distintos vehículos y vivir la historia de tres protagonistas en una ciudad llena de acción.",
+    "imagen": "assets/img/gtaps4.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "EA FC 26",
+    "precio": 123662,
+    "categoria": "El simulador de fútbol más popular. Incluye modos competitivos, clubes, Ultimate Team y jugabilidad renovada para experimentar partidos más realistas.",
+    "imagen": "assets/img/fc26.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "WWE 2K25",
+    "precio": 105996,
+    "categoria": "Juego de lucha libre con superestrellas de la WWE. Tiene combates dinámicos, modos historia y opciones para crear tus propios luchadores.",
+    "imagen": "assets/img/wwe25.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Dragon Ball Sparking Zero",
+    "precio": 98930,
+    "categoria": "Un juego de peleas rápido y espectacular basado en Dragon Ball. Presenta batallas 3D, transformaciones y un enorme roster de personajes.",
+    "imagen": "assets/img/dbsz.avif"
+  },
+  {
+    "id": 8,
+    "nombre": "Rust",
+    "precio": 33565,
+    "categoria": "Juego de supervivencia multijugador en el que debés recolectar recursos, construir bases y defenderte de jugadores y amenazas del entorno para seguir con vida.",
+    "imagen": "assets/img/rust.jpg"
+  }
+  
+]
